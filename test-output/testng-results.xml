@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-24T00:05:01 IST" name="Default suite" finished-at="2024-03-24T00:05:01 IST" duration-ms="48">
+    <groups>
+    </groups>
+    <test started-at="2024-03-24T00:05:01 IST" name="Default test" finished-at="2024-03-24T00:05:01 IST" duration-ms="48">
+      <class name="intro.Js">
+        <test-method signature="normal()[pri:0, instance:intro.Js@78123e82]" started-at="2024-03-24T00:05:01 IST" name="normal" finished-at="2024-03-24T00:05:01 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- normal -->
+        <test-method signature="streamCollect()[pri:0, instance:intro.Js@78123e82]" started-at="2024-03-24T00:05:01 IST" name="streamCollect" finished-at="2024-03-24T00:05:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamCollect -->
+        <test-method signature="streamFilter()[pri:0, instance:intro.Js@78123e82]" started-at="2024-03-24T00:05:01 IST" name="streamFilter" finished-at="2024-03-24T00:05:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamFilter -->
+        <test-method signature="streamMap()[pri:0, instance:intro.Js@78123e82]" started-at="2024-03-24T00:05:01 IST" name="streamMap" finished-at="2024-03-24T00:05:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamMap -->
+      </class> <!-- intro.Js -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
